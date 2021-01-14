@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/baseline_home_white_24dp"
+        android:title="首页"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_tab"
+        android:icon="@drawable/baseline_tab_white_24dp"
+        android:title="导航"
+        app:showAsAction="always" />
+</menu>
